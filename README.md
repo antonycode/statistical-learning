@@ -58,7 +58,7 @@ The lectures and tutorials also draw on material from:
 
 ## Other resources
 
-Students are highly encouraged to encourage to consider the following additional resources.
+Students are highly encouraged to consider the following additional resources.
 
 [A Mind for Numbers: How to Excel at Math and Science](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/) by Barbara Oakley.
 
